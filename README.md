@@ -1,7 +1,7 @@
 # Analisis Faktor yang Mempengaruhi Engagement Tren Media Sosial
 
 ## Repository Outline
-1. description.md - Penjelasan gambaran umum project
+1. Readme.md - Penjelasan gambaran umum project
 2. h8dsft_Milestone1_iriel_aureleo.ipynb - Notebook yang berisi pengolahan dan analisis data dengan phyton
 3. Viral_Social_Media_Trends.csv - file dataset yang digunakan untuk pengolahan dan analisis data
 
